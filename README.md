@@ -17,7 +17,7 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 ## Files
 Download the following files to help you get started:
 
-    **Module 20 Challenge files
+- Module 20 Challenge files
 ## Instructions
 The instructions for this Challenge are divided into the following subsections:
 
